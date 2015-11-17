@@ -18,5 +18,5 @@
     "test",
     "tests"
   ],
-  "private": true
+  "private": false
 }
