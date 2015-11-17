@@ -1,0 +1,22 @@
+{
+  "name": "qihong_demo",
+  "authors": [
+    "qihong1983 <qihongbin@163.com>"
+  ],
+  "description": "qihong_demo",
+  "main": "qihong_demo.js",
+  "moduleType": [],
+  "keywords": [
+    "qihong_demo"
+  ],
+  "license": "MIT",
+  "homepage": "qihong_demo",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
